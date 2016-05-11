@@ -1,0 +1,6 @@
+E:\WCFService\WcfUserService\WcfWebDemo\bin\WcfWebDemo.dll.config
+E:\WCFService\WcfUserService\WcfWebDemo\bin\WcfWebDemo.dll
+E:\WCFService\WcfUserService\WcfWebDemo\bin\WcfWebDemo.pdb
+E:\WCFService\WcfUserService\WcfWebDemo\obj\Debug\WcfWebDemo.csprojResolveAssemblyReference.cache
+E:\WCFService\WcfUserService\WcfWebDemo\obj\Debug\WcfWebDemo.dll
+E:\WCFService\WcfUserService\WcfWebDemo\obj\Debug\WcfWebDemo.pdb

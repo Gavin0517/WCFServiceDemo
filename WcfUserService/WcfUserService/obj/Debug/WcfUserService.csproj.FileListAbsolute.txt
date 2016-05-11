@@ -1,0 +1,5 @@
+E:\WCFService\WcfUserService\WcfUserService\bin\WcfUserService.dll.config
+E:\WCFService\WcfUserService\WcfUserService\bin\WcfUserService.dll
+E:\WCFService\WcfUserService\WcfUserService\bin\WcfUserService.pdb
+E:\WCFService\WcfUserService\WcfUserService\obj\Debug\WcfUserService.dll
+E:\WCFService\WcfUserService\WcfUserService\obj\Debug\WcfUserService.pdb
